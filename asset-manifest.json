@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-Clayton/static/css/main.a659989c.css",
-    "main.js": "/portfolio-Clayton/static/js/main.b09dc203.js",
+    "main.css": "/portfolio-Clayton/static/css/main.10f165b2.css",
+    "main.js": "/portfolio-Clayton/static/js/main.296dbe74.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-Clayton/static/js/787.1ed0c42c.chunk.js",
-    "static/media/About Me Image.jpg": "/portfolio-Clayton/static/media/About Me Image.0657e577b577f57c8d3a.jpg",
+    "static/media/About Me Image.JPG": "/portfolio-Clayton/static/media/About Me Image.ebef0ca46fd3faa10c8b.JPG",
     "static/media/tick.png": "/portfolio-Clayton/static/media/tick.f41b3080bfa1d52c3348.png",
     "index.html": "/portfolio-Clayton/index.html",
-    "main.a659989c.css.map": "/portfolio-Clayton/static/css/main.a659989c.css.map",
-    "main.b09dc203.js.map": "/portfolio-Clayton/static/js/main.b09dc203.js.map",
+    "main.10f165b2.css.map": "/portfolio-Clayton/static/css/main.10f165b2.css.map",
+    "main.296dbe74.js.map": "/portfolio-Clayton/static/js/main.296dbe74.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-Clayton/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a659989c.css",
-    "static/js/main.b09dc203.js"
+    "static/css/main.10f165b2.css",
+    "static/js/main.296dbe74.js"
   ]
 }
